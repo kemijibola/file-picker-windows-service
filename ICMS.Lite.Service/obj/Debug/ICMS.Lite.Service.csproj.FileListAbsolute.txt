@@ -1,0 +1,16 @@
+c:\users\workload\documents\visual studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe.config
+c:\users\workload\documents\visual studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe
+c:\users\workload\documents\visual studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.pdb
+c:\users\workload\documents\visual studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\obj\Debug\ICMS.Lite.Service.csprojResolveAssemblyReference.cache
+c:\users\workload\documents\visual studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\obj\Debug\ICMS.Lite.Service.exe
+c:\users\workload\documents\visual studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\obj\Debug\ICMS.Lite.Service.pdb
+c:\users\workload\documents\visual studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\System.Net.Http.dll
+c:\users\workload\documents\visual studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\System.Net.Http.Extensions.dll
+c:\users\workload\documents\visual studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\System.Net.Http.Formatting.dll
+c:\users\workload\documents\visual studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\System.Net.Http.Primitives.dll
+c:\users\workload\documents\visual studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\System.Net.Http.WebRequest.dll
+c:\users\workload\documents\visual studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\Newtonsoft.Json.dll
+c:\users\workload\documents\visual studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\System.Net.Http.xml
+c:\users\workload\documents\visual studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\System.Net.Http.WebRequest.xml
+c:\users\workload\documents\visual studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\obj\Debug\ICMS.Lite.Service.ProjectInstaller.resources
+c:\users\workload\documents\visual studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\obj\Debug\ICMS.Lite.Service.csproj.GenerateResource.Cache

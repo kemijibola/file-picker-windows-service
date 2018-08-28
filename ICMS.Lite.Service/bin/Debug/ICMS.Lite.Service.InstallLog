@@ -1,0 +1,418 @@
+﻿Installing assembly 'C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.InstallLog
+   assemblypath = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe
+Installing service ICMS Lite Service...
+Service ICMS Lite Service has been successfully installed.
+Creating EventLog source ICMS Lite Service in log Application...
+Committing assembly 'C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.InstallLog
+   assemblypath = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe
+Installing assembly 'C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.InstallLog
+   assemblypath = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe
+Installing service ICMS Lite Service...
+Creating EventLog source ICMS Lite Service in log Application...
+Rolling back assembly 'C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.InstallLog
+   assemblypath = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe
+Restoring event log to previous state for source ICMS Lite Service.
+Installing assembly 'C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.InstallLog
+   assemblypath = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe
+Installing service ICMS Lite Service...
+Creating EventLog source ICMS Lite Service in log Application...
+Rolling back assembly 'C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.InstallLog
+   assemblypath = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe
+Restoring event log to previous state for source ICMS Lite Service.
+Uninstalling assembly 'C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.InstallLog
+   assemblypath = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe
+Removing EventLog source ICMS Lite Service.
+Service ICMS Lite Service is being removed from the system...
+Service ICMS Lite Service was successfully removed from the system.
+Installing assembly 'C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.InstallLog
+   assemblypath = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe
+Installing service ICMS Lite Service...
+Service ICMS Lite Service has been successfully installed.
+Creating EventLog source ICMS Lite Service in log Application...
+Committing assembly 'C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.InstallLog
+   assemblypath = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe
+Uninstalling assembly 'C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.InstallLog
+   assemblypath = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe
+Removing EventLog source ICMS Lite Service.
+Service ICMS Lite Service is being removed from the system...
+Service ICMS Lite Service was successfully removed from the system.
+Installing assembly 'C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.InstallLog
+   assemblypath = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe
+Installing service ICMS Lite Service...
+Service ICMS Lite Service has been successfully installed.
+Creating EventLog source ICMS Lite Service in log Application...
+Committing assembly 'C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.InstallLog
+   assemblypath = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe
+Uninstalling assembly 'C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.InstallLog
+   assemblypath = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe
+Removing EventLog source ICMS Lite Service.
+Service ICMS Lite Service is being removed from the system...
+Service ICMS Lite Service was successfully removed from the system.
+Installing assembly 'C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.InstallLog
+   assemblypath = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe
+Installing service ICMS Lite Service...
+Service ICMS Lite Service has been successfully installed.
+Creating EventLog source ICMS Lite Service in log Application...
+Committing assembly 'C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.InstallLog
+   assemblypath = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe
+Uninstalling assembly 'C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.InstallLog
+   assemblypath = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe
+Removing EventLog source ICMS Lite Service.
+Service ICMS Lite Service is being removed from the system...
+Service ICMS Lite Service was successfully removed from the system.
+Installing assembly 'C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.InstallLog
+   assemblypath = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe
+Installing service ICMS Lite Service...
+Service ICMS Lite Service has been successfully installed.
+Creating EventLog source ICMS Lite Service in log Application...
+Committing assembly 'C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.InstallLog
+   assemblypath = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe
+Uninstalling assembly 'C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.InstallLog
+   assemblypath = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe
+Removing EventLog source ICMS Lite Service.
+Service ICMS Lite Service is being removed from the system...
+Service ICMS Lite Service was successfully removed from the system.
+Installing assembly 'C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.InstallLog
+   assemblypath = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe
+Installing service ICMS Lite Service...
+Service ICMS Lite Service has been successfully installed.
+Creating EventLog source ICMS Lite Service in log Application...
+Committing assembly 'C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.InstallLog
+   assemblypath = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe
+Installing assembly 'C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.InstallLog
+   assemblypath = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe
+Installing service ICMS Lite Service...
+Creating EventLog source ICMS Lite Service in log Application...
+Rolling back assembly 'C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.InstallLog
+   assemblypath = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe
+Restoring event log to previous state for source ICMS Lite Service.
+Uninstalling assembly 'C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.InstallLog
+   assemblypath = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe
+Removing EventLog source ICMS Lite Service.
+Service ICMS Lite Service is being removed from the system...
+Service ICMS Lite Service was successfully removed from the system.
+Installing assembly 'C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.InstallLog
+   assemblypath = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe
+Installing service ICMS Lite Service...
+Service ICMS Lite Service has been successfully installed.
+Creating EventLog source ICMS Lite Service in log Application...
+Committing assembly 'C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.InstallLog
+   assemblypath = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe
+Uninstalling assembly 'C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.InstallLog
+   assemblypath = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe
+Removing EventLog source ICMS Lite Service.
+Service ICMS Lite Service is being removed from the system...
+Service ICMS Lite Service was successfully removed from the system.
+Installing assembly 'C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.InstallLog
+   assemblypath = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe
+Installing service ICMS Lite Service...
+Service ICMS Lite Service has been successfully installed.
+Creating EventLog source ICMS Lite Service in log Application...
+Committing assembly 'C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.InstallLog
+   assemblypath = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe
+Uninstalling assembly 'C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.InstallLog
+   assemblypath = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe
+Removing EventLog source ICMS Lite Service.
+Service ICMS Lite Service is being removed from the system...
+Service ICMS Lite Service was successfully removed from the system.
+Installing assembly 'C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.InstallLog
+   assemblypath = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe
+Installing service ICMS Lite Service...
+Service ICMS Lite Service has been successfully installed.
+Creating EventLog source ICMS Lite Service in log Application...
+Committing assembly 'C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.InstallLog
+   assemblypath = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe
+Uninstalling assembly 'C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.InstallLog
+   assemblypath = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe
+Removing EventLog source ICMS Lite Service.
+Service ICMS Lite Service is being removed from the system...
+Service ICMS Lite Service was successfully removed from the system.
+Installing assembly 'C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.InstallLog
+   assemblypath = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe
+Installing service ICMS Lite Service...
+Service ICMS Lite Service has been successfully installed.
+Creating EventLog source ICMS Lite Service in log Application...
+Committing assembly 'C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.InstallLog
+   assemblypath = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe
+Uninstalling assembly 'C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.InstallLog
+   assemblypath = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe
+Removing EventLog source ICMS Lite Service.
+Service ICMS Lite Service is being removed from the system...
+Service ICMS Lite Service was successfully removed from the system.
+Installing assembly 'C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.InstallLog
+   assemblypath = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe
+Installing service ICMS Lite Service...
+Service ICMS Lite Service has been successfully installed.
+Creating EventLog source ICMS Lite Service in log Application...
+Committing assembly 'C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.InstallLog
+   assemblypath = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe
+Uninstalling assembly 'C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.InstallLog
+   assemblypath = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe
+Removing EventLog source ICMS Lite Service.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.InstallLog
+   assemblypath = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe
+Removing EventLog source ICMS Lite Service.
+Service ICMS Lite Service is being removed from the system...
+Service ICMS Lite Service was successfully removed from the system.
+Installing assembly 'C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.InstallLog
+   assemblypath = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe
+Installing service ICMS Lite Service...
+Service ICMS Lite Service has been successfully installed.
+Creating EventLog source ICMS Lite Service in log Application...
+Committing assembly 'C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.InstallLog
+   assemblypath = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe
+Uninstalling assembly 'C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.InstallLog
+   assemblypath = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe
+Removing EventLog source ICMS Lite Service.
+Service ICMS Lite Service is being removed from the system...
+Service ICMS Lite Service was successfully removed from the system.
+Installing assembly 'C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.InstallLog
+   assemblypath = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe
+Installing service ICMS Lite Service...
+Service ICMS Lite Service has been successfully installed.
+Creating EventLog source ICMS Lite Service in log Application...
+Committing assembly 'C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.InstallLog
+   assemblypath = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe
+Uninstalling assembly 'C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.InstallLog
+   assemblypath = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe
+Removing EventLog source ICMS Lite Service.
+Service ICMS Lite Service is being removed from the system...
+Service ICMS Lite Service was successfully removed from the system.
+Installing assembly 'C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.InstallLog
+   assemblypath = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe
+Installing service ICMS Lite Service...
+Service ICMS Lite Service has been successfully installed.
+Creating EventLog source ICMS Lite Service in log Application...
+Committing assembly 'C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.InstallLog
+   assemblypath = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe
+Uninstalling assembly 'C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.InstallLog
+   assemblypath = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe
+Removing EventLog source ICMS Lite Service.
+Service ICMS Lite Service is being removed from the system...
+Service ICMS Lite Service was successfully removed from the system.
+Installing assembly 'C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.InstallLog
+   assemblypath = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe
+Installing service ICMS Lite Service...
+Service ICMS Lite Service has been successfully installed.
+Creating EventLog source ICMS Lite Service in log Application...
+Committing assembly 'C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.InstallLog
+   assemblypath = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe
+Uninstalling assembly 'C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.InstallLog
+   assemblypath = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe
+Removing EventLog source ICMS Lite Service.
+Service ICMS Lite Service is being removed from the system...
+Service ICMS Lite Service was successfully removed from the system.
+Installing assembly 'C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.InstallLog
+   assemblypath = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe
+Installing service ICMS Lite Service...
+Service ICMS Lite Service has been successfully installed.
+Creating EventLog source ICMS Lite Service in log Application...
+Committing assembly 'C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.InstallLog
+   assemblypath = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe
+Uninstalling assembly 'C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.InstallLog
+   assemblypath = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe
+Removing EventLog source ICMS Lite Service.
+Service ICMS Lite Service is being removed from the system...
+Service ICMS Lite Service was successfully removed from the system.
+Installing assembly 'C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.InstallLog
+   assemblypath = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe
+Installing service ICMS Lite Service...
+Service ICMS Lite Service has been successfully installed.
+Creating EventLog source ICMS Lite Service in log Application...
+Committing assembly 'C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.InstallLog
+   assemblypath = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe
+Uninstalling assembly 'C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.InstallLog
+   assemblypath = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe
+Removing EventLog source ICMS Lite Service.
+Service ICMS Lite Service is being removed from the system...
+Service ICMS Lite Service was successfully removed from the system.
+Installing assembly 'C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.InstallLog
+   assemblypath = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe
+Installing service ICMS Lite Service...
+Service ICMS Lite Service has been successfully installed.
+Creating EventLog source ICMS Lite Service in log Application...
+Committing assembly 'C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.InstallLog
+   assemblypath = C:\Users\Workload\Documents\Visual Studio 2017\Projects\ICMS.Lite.Service\ICMS.Lite.Service\bin\Debug\ICMS.Lite.Service.exe
